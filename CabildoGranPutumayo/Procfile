@@ -1,1 +1,1 @@
-web: gunicorn cabildo.wsgi
+web: gunicorn cabildoGranPutumayo.wsgi
