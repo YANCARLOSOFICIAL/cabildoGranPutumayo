@@ -1,1 +1,1 @@
-web: gunicorn cabildoGranPutumayo.wsgi
+web: gunicorn CabildoGranPutumayo.wsgi
