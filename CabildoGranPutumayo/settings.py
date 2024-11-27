@@ -88,9 +88,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'cabildo',
-        'USER': 'root',
-        'PASSWORD': '1234',
-        'HOST': 'localhost',
+        'USER': 'admin',
+        'PASSWORD': 'Dazaguey40',
+        'HOST': 'basedatositp-1.che0ae2kixt2.us-east-1.rds.amazonaws.com',
         'PORT': '3306'
     }
 }
